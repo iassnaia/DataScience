@@ -52,13 +52,13 @@
 1. Клонируйте репозиторий:
 
     ```sh
-    git clone <https://github.com/eghrthrjdtsed/Data_Science.git>
+    git clone <https://github.com/iassnaia/DataScience.git>
     ```
 
 2. Перейдите в директорию репозитория:
 
     ```sh
-    cd <analysis_LTV>
+    cd <analyz_LTV>
     ```
 
 3. Установите необходимые библиотеки:
