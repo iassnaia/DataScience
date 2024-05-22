@@ -67,6 +67,6 @@
     pip install -r requirements.txt
     ```
 
-4. Запустите Jupyter Notebook и откройте файл `analysis_LTV.ipynb`.
+4. Запустите Jupyter Notebook и откройте файл `analyz_LTV.ipynb`.
 
 5. Выполните все ячейки в ноутбуке для воспроизведения анализа и построения моделей.# DataScience
